@@ -1,0 +1,9 @@
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\bin\Debug\try3YT.exe.config
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\bin\Debug\try3YT.exe
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\bin\Debug\try3YT.pdb
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\obj\Debug\try3YT.csproj.AssemblyReference.cache
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\obj\Debug\try3YT.Properties.Resources.resources
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\obj\Debug\try3YT.csproj.GenerateResource.cache
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\obj\Debug\try3YT.csproj.CoreCompileInputs.cache
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\obj\Debug\try3YT.exe
+C:\Users\SESA711409\Documents\chronosApp\auto_update\try3YT\obj\Debug\try3YT.pdb
