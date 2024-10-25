@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="try3YT.exe" version="1.0.0.1" publicKeyToken="96e2701da8752fb3" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="try3YT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="try3YT.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="try3YT.exe" size="8120">
+      <assemblyIdentity name="try3YT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xyb2p1ShbvIztGGQ1umCD7AtAjZvdaOkrRQJlwHVMCc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="try3YT.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=APA\SESA711409" issuerKeyHash="f4718da63c046b5e2b77322faf80e9f4c1082755" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GvgGvmuMgiC30IN7vJvZRc/FSln+cba4AG7rxXqfHHA=</DigestValue></Reference></SignedInfo><SignatureValue>e+rCaUB4sN2af/S6LCBuvVi2X0MJyBgtHjTPRubcYGt5rURweV29I3bBGThhcd8tzoSfSg7VKANNmGDoG/Tn2BTpv7dFPJHbVeYW/tbhAG3ttyBILF7pHB9pyP1x7MRZfCg5n10tPiRRnpccFo87BhXrJG0xJo5DamcPnL4gTd0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2uX8pZD8QPxbScYVdjKZmdpBc36mlUSZJY+HyTILVe7qDBjnUAOyKNQDeZgX3E5b52TEKQirwMdiEGU4AG81qEwIWg5xPm126snN8ltBFzTzJ0rS5kyhYZczS1rkec9adhsGd7KMRxiIuMFm8HUU11gf+hWdcN43GtJz5f3UwKk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="701c9f7ac5eb6e00b8b671fe594ac5cf45d99bbc7b83d0b720828c6bbe06f81a" Description="" Url=""><as:assemblyIdentity name="try3YT.exe" version="1.0.0.1" publicKeyToken="96e2701da8752fb3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=APA\SESA711409</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CWIszTFnTCc+wxmaWAybL3lHDSRmivKea1edmj95IT0=</DigestValue></Reference></SignedInfo><SignatureValue>DIlIrbzqaGKEUCgXJDwkuvpfxCH+wdldoeTm3CoGCHtbrpb3emVuA1K6WuTxSNxi4wtOq+/JuIIG7J/GSaXF0lwmScb3iosA1cd0qfzo5MfXj/esm2IDKYdwvUiXzMTRDaWoAYQ6VkMCdR5B95n3XyrAxxcev94s31uUp+hsEOw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2uX8pZD8QPxbScYVdjKZmdpBc36mlUSZJY+HyTILVe7qDBjnUAOyKNQDeZgX3E5b52TEKQirwMdiEGU4AG81qEwIWg5xPm126snN8ltBFzTzJ0rS5kyhYZczS1rkec9adhsGd7KMRxiIuMFm8HUU11gf+hWdcN43GtJz5f3UwKk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQVAupmbjJALREWH7Z1GymJDANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAQQBQAEEAXABTAEUAUwBBADcAMQAxADQAMAA5MB4XDTI0MTAyNTExNDMyOFoXDTI1MTAyNTE3NDMyOFowJzElMCMGA1UEAx4cAEEAUABBAFwAUwBFAFMAQQA3ADEAMQA0ADAAOTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA2uX8pZD8QPxbScYVdjKZmdpBc36mlUSZJY+HyTILVe7qDBjnUAOyKNQDeZgX3E5b52TEKQirwMdiEGU4AG81qEwIWg5xPm126snN8ltBFzTzJ0rS5kyhYZczS1rkec9adhsGd7KMRxiIuMFm8HUU11gf+hWdcN43GtJz5f3UwKkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAa4NaYxJh//S2dw4RIXCtHrHYzuwfFVJFJ8VkzGZ51DmHaNwRaWwqaxexNSfiYaMy1p/dYBB3vTsxkxN5DokWn6FmV3PxY2mEErz26rmTXK6lBYIGxud+UmQnWAF0W/oisommELoMRg0gs1oyaHTqF7RymLd9aNxpR9c6oSLLQiA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

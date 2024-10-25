@@ -37,7 +37,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(100, 23);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Hi";
+            this.label1.Text = "Hi :)";
             // 
             // Main
             // 
@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Name = "Main";
-            this.Text = "Tool v1.0";
+            this.Text = "Tool v1.1";
             this.Load += new System.EventHandler(this.Main_Load);
             this.ResumeLayout(false);
 
