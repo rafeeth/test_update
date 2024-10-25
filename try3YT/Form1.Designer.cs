@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Name = "Main";
-            this.Text = "Tool v1.1";
+            this.Text = "Tool v1.2";
             this.Load += new System.EventHandler(this.Main_Load);
             this.ResumeLayout(false);
 
