@@ -8,7 +8,7 @@
         <expiration maximumAge="0" unit="days" />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://schneiderelectric.sharepoint.com/sites/edykhuGroup/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FedykhuGroup%2FShared%20Documents%2Fpublished&amp;viewid=821a3a62-e34e-40a9-8fbc-b28c8354093a/try3YT.application" />
+    <deploymentProvider codebase="https://schneiderelectric.sharepoint.com/:f:/s/edykhuGroup/EjETHEkgxKxCl6MaHgKejhcBEgc4JDRYFIkRdjAH-HH-tA/try3YT.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
