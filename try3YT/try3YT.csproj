@@ -23,8 +23,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://schneiderelectric.sharepoint.com/:f:/s/edykhuGroup/EjETHEkgxKxCl6MaHgKejhcBEgc4JDRYFIkRdjAH-HH-tA/</InstallUrl>
-    <UpdateUrl>http://schneiderelectric.sharepoint.com/:f:/s/edykhuGroup/EjETHEkgxKxCl6MaHgKejhcBEgc4JDRYFIkRdjAH-HH-tA/</UpdateUrl>
+    <InstallUrl>https://raw.githubusercontent.com/rafeeth/test_update/refs/heads/main/published/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/rafeeth/test_update/refs/heads/main/published/</UpdateUrl>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
     <ApplicationRevision>0</ApplicationRevision>

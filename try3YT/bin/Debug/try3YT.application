@@ -8,7 +8,7 @@
         <expiration maximumAge="0" unit="days" />
       </update>
     </subscription>
-    <deploymentProvider codebase="http://schneiderelectric.sharepoint.com/:f:/s/edykhuGroup/EjETHEkgxKxCl6MaHgKejhcBEgc4JDRYFIkRdjAH-HH-tA/try3YT.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/rafeeth/test_update/refs/heads/main/published/try3YT.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
