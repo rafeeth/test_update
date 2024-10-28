@@ -20,3 +20,4 @@ C:\Users\SESA711409\Documents\GitHub\test_update\try3YT\obj\Debug\try3YT.exe.man
 C:\Users\SESA711409\Documents\GitHub\test_update\try3YT\obj\Debug\try3YT.application
 C:\Users\SESA711409\Documents\GitHub\test_update\try3YT\obj\Debug\try3YT.exe
 C:\Users\SESA711409\Documents\GitHub\test_update\try3YT\obj\Debug\try3YT.pdb
+C:\Users\SESA711409\Documents\GitHub\test_update\try3YT\obj\Debug\UpdateService.Main.resources
